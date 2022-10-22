@@ -1,4 +1,5 @@
 # Mixed Messages
+Check out the live version [here](https://angelinakoloska.github.io/MixedMessages/)
 ## Description
 This website generates quotes.
 ## Features
